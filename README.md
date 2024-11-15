@@ -26,8 +26,6 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://medium.com/@ragigeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
-&nbsp;
 
 ---
 
